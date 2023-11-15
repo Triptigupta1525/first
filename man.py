@@ -11,7 +11,7 @@ match = SequenceMatcher(None,
 						string1, string2) 
 
 # convert above output into ratio 
-# and multiplying it with 100 
+# and multiplying it with 100asdsadasdasdasdas
 result = match.ratio() * 100
 
 # Display the final result 
