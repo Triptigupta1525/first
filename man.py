@@ -4,7 +4,7 @@ from difflib import SequenceMatcher
 
 # Declaring string variables 
 string1 = 'I am geek'
-string2 = 'I am geeks'
+string2 = 'I am new geek'
 
 # Using the SequenceMatcher() 
 match = SequenceMatcher(None, 
